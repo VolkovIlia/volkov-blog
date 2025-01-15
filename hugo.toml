@@ -1,4 +1,10 @@
 baseurl = ""
 title = "Mainroad"
-languageCode = "en-us"
+languageCode = "ru"
 theme = 'mainroad'
+paginate = "10"
+
+[Author] # Used in authorbox
+  name = "Волков Илья"
+  bio = "Кандидат технических наук. Руководитель проектов."
+  avatar = "content/images/avatar.jpg"
