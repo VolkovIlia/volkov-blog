@@ -1,0 +1,4 @@
+baseurl = ""
+title = "Mainroad"
+languageCode = "en-us"
+theme = 'mainroad'
